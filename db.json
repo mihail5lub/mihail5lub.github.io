@@ -2,49 +2,145 @@
   "products": [
     {
       "image": "1.jpg",
-      "name": "T-shirt 1",
-      "price": 2100.234234234,
+      "name": "Платье",
+      "price": 3500,
       "article": "T1",
-      "available": true,
-      "category": "Мужские"
-    },
-    {
-      "image": "2.jpg",
-      "name": "T-shirt 2",
-      "price": 3150.12312412,
-      "article": "T2",
       "available": true,
       "category": "Женские"
     },
     {
+      "image": "12.jpg",
+      "name": "Рубашка",
+      "price": 3150,
+      "article": "T12",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
       "image": "3.jpg",
-      "name": "T-shirt 3",
-      "price": 4200.51524,
+      "name": "Футболка",
+      "price": 1200,
       "article": "T3",
       "available": false,
       "category": "Женские"
     },
     {
-      "image": "4.jpg",
-      "name": "T-shirt 4",
-      "price": 5300.1245512,
-      "article": "T4",
+      "image": "14.jpg",
+      "name": "Джемпер",
+      "price": 5300,
+      "article": "T14",
       "available": true,
       "category": "Мужские"
     },
     {
       "image": "5.jpg",
-      "name": "T-shirt 5",
-      "price": 6500.3522314,
+      "name": "Топ",
+      "price": 6500,
       "article": "T5",
       "available": false,
       "category": "Женские"
     },
     {
-      "image": "6.jpeg",
-      "name": "T-shirt 6",
-      "price": 8700.4124123,
+      "image": "16.jpg",
+      "name": "Рубашка",
+      "price": 4700,
+      "article": "T16",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "7.jpg",
+      "name": "Футболка",
+      "price": 700,
+      "article": "T7",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "8.jpg",
+      "name": "Пальто",
+      "price": 8700,
+      "article": "T8",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "9.jpg",
+      "name": "Свитер",
+      "price": 3750,
+      "article": "T9",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "10.jpg",
+      "name": "Желет",
+      "price": 8700,
+      "article": "T10",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "2.jpg",
+      "name": "Брюки",
+      "price": 4700,
+      "article": "T2",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "4.jpg",
+      "name": "Пуловер",
+      "price": 3500,
+      "article": "T4",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "6.jpg",
+      "name": "Юбка",
+      "price": 8700,
       "article": "T6",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "13.jpg",
+      "name": "Футболка",
+      "price": 1600,
+      "article": "T13",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "15.jpg",
+      "name": "Рубашка",
+      "price": 1800,
+      "article": "T15",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "11.jpg",
+      "name": "Брюки",
+      "price": 8700,
+      "article": "T11",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "17.jpg",
+      "name": "Шорты",
+      "price": 2700,
+      "article": "T17",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "18.jpg",
+      "name": "Майка",
+      "price": 1700,
+      "article": "T18",
       "available": true,
       "category": "Женские"
     }
