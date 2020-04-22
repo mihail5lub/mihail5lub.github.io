@@ -1,4 +1,4 @@
-# online_shop
+# tutorial_online_shop
 
 ## Project setup
 ```
